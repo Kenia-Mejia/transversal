@@ -1,0 +1,1 @@
+Este código en C++ solicita al usuario un array de enteros de tamaño especificado, asegura que los elementos del array sean únicos y proporciona tres métodos diferentes de ordenación (selección, burbuja e inserción) para ordenar dicho array.
